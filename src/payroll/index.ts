@@ -14,3 +14,4 @@ export * from "./employeeEligibilityStatus";
 export * from "./payrollAccountingReconciliationMarkers";
 export * from "./beneficiaryChangeVerificationWorkflow";
 export * from "./fundingSourceFailoverValidation";
+export * from "./historicalPayrollAccessAuthorization";
